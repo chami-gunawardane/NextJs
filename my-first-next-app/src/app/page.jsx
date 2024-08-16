@@ -13,6 +13,8 @@ export default function Home() {
       <li><Link href="/about">About</Link></li>
       <li><Link href="/contact">Contact Us</Link></li>
       <li><Link href="/about/branches">Branches</Link></li>
+      <li><Link href="/products/vegis">Vegies</Link></li>
+
     </ul>
 
     <Link href="http://nextjs.org" target="_blank">NextJs Site</Link>
